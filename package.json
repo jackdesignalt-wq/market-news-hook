@@ -1,0 +1,8 @@
+{
+  "name": "market-news-hook",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo \"Serverless function - no dev server needed\"",
+    "build": "echo \"noop\""
+  }
+}
